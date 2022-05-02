@@ -1,2 +1,1 @@
-# ComputingFundamentalsFinalProject
-EECE2140 Final Project: (CAD) Designer Reference Application
+THIS IS NOT MY FINAL PROJECT. MY FINAL PROJECT IS EECE2140, THE ONE I LINKED IN MY REPORT. PLEASE DO NOT GRADE THIS.
